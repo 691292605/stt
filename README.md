@@ -1,1 +1,2 @@
 直接用unity打开这个工程即可
+使用了openai的whisper模型进行语音识别转换
